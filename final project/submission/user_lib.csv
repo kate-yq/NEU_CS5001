@@ -1,0 +1,26 @@
+UserID,Sex(F/M),Rigion,Born year,remark
+usr_1,F,China,1990,
+usr_2,F,China,,
+usr_3,F,Canada,1993,
+usr_4,F,Canada,2005,
+usr_5,F,US,1983,
+usr_6,F,US,,
+usr_7,F,UK,2013,
+usr_8,F,Korea,1998,dance uploader
+usr_9,F,,2000,
+usr_10,M,China,1997,entertaining uploader
+usr_11,M,China,1989,movie uploader
+usr_12,M,Canada,2003,
+usr_13,M,Canada,,
+usr_14,M,US,1989,pet uploader
+usr_15,M,US,2001,travel uploader
+usr_16,M,UK,2012,
+usr_17,M,Japan,,
+usr_18,M,,2008,
+usr_19,,France,,
+usr_20,,Korea,,
+usr_21,F,,,
+usr_22,M,,,
+usr_23,,,1990,
+usr_24,,,2001,
+usr_25,,,,
